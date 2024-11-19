@@ -6,10 +6,10 @@ This field allows me to fully utilize my analytical thinking skills, draw meanin
 
 👩‍💻Currently, I am developing my skills in:
 
-Power BI: Creating interactive dashboards and reports to support data-driven decision-making. 📊
-Python: Automating tasks and performing data analysis using libraries like Pandas and Matplotlib. 🐍
-SQL: Data cleaning and extracting insights from databases for further analysis. 💾
-Excel: Advanced data analysis, visualizations, and task automation with formulas and macros. 📈
+-- Power BI: Creating interactive dashboards and reports to support data-driven decision-making. 📊
+-- Python: Automating tasks and performing data analysis using libraries like Pandas and Matplotlib. 🐍
+-- SQL: Data cleaning and extracting insights from databases for further analysis. 💾
+-- Excel: Advanced data analysis, visualizations, and task automation with formulas and macros. 📈
 
 🏆 Projects and Goals:
 -- Creating interactive Power BI dashboards.
