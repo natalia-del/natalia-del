@@ -22,6 +22,7 @@ I’m fascinated by psychology – I enjoy reading books and watching podcasts o
 Feel free to connect with me or collaborate! I’m always open to questions, feedback, and building new relationships in the field. 😊
 
 
-**SQL Project** 
+**SQL Project**  
+Project about AirBnb_NYC_2019:  
 https://github.com/natalia-del/AirBnb_2019.git
 
