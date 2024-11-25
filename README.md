@@ -20,3 +20,7 @@ I’m passionate about sports – I’ve been going to the gym regularly since 2
 I love traveling, exploring new cultures, meeting people, and admiring architecture.
 I’m fascinated by psychology – I enjoy reading books and watching podcasts on the topic.
 Feel free to connect with me or collaborate! I’m always open to questions, feedback, and building new relationships in the field. 😊
+
+
+**SQL Project**
+Airbnb_NYC19.README.md
