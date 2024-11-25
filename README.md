@@ -23,6 +23,7 @@ Feel free to connect with me or collaborate! I’m always open to questions, fee
 
 
 **SQL Project**  
-Project about AirBnb_NYC_2019:  
+In this project, I analyzed a dataset using advanced SQL queries.  
+The focus was on data cleaning, aggregation, and extracting valuable insights to support decision-making.  
 https://github.com/natalia-del/AirBnb_2019.git
 
