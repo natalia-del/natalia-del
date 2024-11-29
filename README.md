@@ -14,13 +14,16 @@ This field allows me to fully utilize my analytical thinking skills, draw meanin
 - Creating interactive Power BI dashboards.  
 - Working on a Python-based app for automating reporting tasks.  
 - Improving my skills in data modeling and query optimization in SQL.
+- 
 
 ✨ A little about me:
 I’m passionate about sports – I’ve been going to the gym regularly since 2019 and recently started playing squash.
 I love traveling, exploring new cultures, meeting people, and admiring architecture.
 I’m fascinated by psychology – I enjoy reading books and watching podcasts on the topic.
-Feel free to connect with me or collaborate! I’m always open to questions, feedback, and building new relationships in the field. 😊
+Feel free to connect with me or collaborate! I’m always open to questions, feedback, and building new relationships in the field. 😊  
 
+🏆Project I'm currently working on:  
+✨Extracting data from the API in Python, saving data, sending it to SQL, extracting the most important data needed for visualization, visualization in Powerbi, **COMING SOON**
 
 **SQL Project**  
 In this project, I analyzed a dataset using advanced SQL queries.  
