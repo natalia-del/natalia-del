@@ -23,7 +23,7 @@ I’m fascinated by psychology – I enjoy reading books and watching podcasts o
 Feel free to connect with me or collaborate! I’m always open to questions, feedback, and building new relationships in the field. 😊  
 
 🏆Project I'm currently working on:  
-✨Extracting data from the API in Python, saving data, sending it to SQL, extracting the most important data needed for visualization, visualization in Powerbi, **COMING SOON**
+✨Extracting data from the API in Python, saving data, sending it to SQL, extracting the most important data needed for visualization, visualization in Powerbi, **COMING SOON**  
 ✨Aviation data analysis in SQL
 **SQL Project**  
 In this project, I analyzed a dataset using advanced SQL queries.  
