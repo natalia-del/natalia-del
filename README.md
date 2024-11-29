@@ -24,7 +24,7 @@ Feel free to connect with me or collaborate! I’m always open to questions, fee
 
 🏆Project I'm currently working on:  
 ✨Extracting data from the API in Python, saving data, sending it to SQL, extracting the most important data needed for visualization, visualization in Powerbi, **COMING SOON**  
-✨Aviation data analysis in SQL
+✨Aviation data analysis in SQL  
 **SQL Project**  
 In this project, I analyzed a dataset using advanced SQL queries.  
 The focus was on data cleaning, aggregation, and extracting valuable insights to support decision-making.  
