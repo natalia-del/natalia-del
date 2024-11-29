@@ -27,3 +27,6 @@ In this project, I analyzed a dataset using advanced SQL queries.
 The focus was on data cleaning, aggregation, and extracting valuable insights to support decision-making.  
 https://github.com/natalia-del/AirBnb_2019.git
 
+**Visualization Project** 
+Looker Project: https://github.com/natalia-del/LegoDash.git
+
